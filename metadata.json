@@ -1,0 +1,5 @@
+{
+  "name": "ai_chat",
+  "description": "A high-fidelity dark-themed AI chat interface featuring rich message types (code, files, audio) and a detailed conversation history sidebar.",
+  "requestFramePermissions": []
+}
